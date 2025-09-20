@@ -66,10 +66,8 @@ git clone https://github.com/harsh31tkd/tic-tac-toe.git
 
 # 🌐 Live Demo
 
-## 👉 
-```
-https://harsh31tkd.github.io/tic-tac-toe/
-```
+## 👉      https://harsh31tkd.github.io/tic-tac-toe/
+
 
 # 🤝 Contributing
 
