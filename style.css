@@ -110,3 +110,33 @@ h1{
 
     
 }
+
+@media screen {
+    and (max-width: 600px) {
+        .container {
+            width: 90vw;
+            height: auto;
+            padding: 10px;
+            gap: 10px;
+
+        }
+        .game {
+            width: 90vmin;
+            height: 90vmin;
+            gap: 5px;
+            padding-top: 5px;
+            padding-bottom: 5px;
+
+        }
+        .box {
+            height: 26vmin;
+            width: 26vmin;
+            font-size: 10vmin;
+            
+        }
+
+
+    }
+
+
+}
