@@ -1,6 +1,6 @@
 # 🎮 Tic Tac Toe
 
-A responsive Tic Tac Toe Game built using HTML, CSS, and JavaScript.
+## A responsive Tic Tac Toe Game built using HTML, CSS, and JavaScript.
 This project is a simple yet fun implementation of the classic 3x3 Tic Tac Toe game, designed with a modern UI and responsive design for smaller screens.
 
 # 🚀 Features
@@ -29,49 +29,55 @@ tic-tac-toe/
 
 # 🖥️ How to Play
 
-Open the game in your browser.
+- Open the game in your browser.
 
-Player X always starts first.
+- Player X always starts first.
 
-Players take turns clicking on an empty cell.
+- Players take turns clicking on an empty cell.
+ 
+- First player to align 3 marks in a row, column, or diagonal wins.
 
-First player to align 3 marks in a row, column, or diagonal wins.
+- If all cells are filled and no winner → Game ends in a draw.
 
-If all cells are filled and no winner → Game ends in a draw.
+- Use the Reset button to start a new game.
 
-Use the Reset button to start a new game.
+# 🛠️ Technologies Used
 
-🛠️ Technologies Used
+- HTML5 – for structure
 
-HTML5 – for structure
+- CSS3 – for design & responsiveness
 
-CSS3 – for design & responsiveness
+- JavaScript (ES6) – for game logic
 
-JavaScript (ES6) – for game logic
-
-📸 Screenshots
-
-(Optional – you can add game screenshots here)
-
-🏗️ Setup Instructions
-
-Clone this repository:
-
-git clone https://github.com/harsh31tkd/Tic-tac-Toe-.git
+# 📸 Screenshots
+<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/3cf2a01f-1bc7-4817-a32b-389a7bd46744" />
+<img width="1920" height="1080" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/66b551c2-1a8f-45ab-93c0-6bcdeea72420" />
 
 
-Open index.html in your browser.
 
-🌐 Live Demo
+# 🏗️ Setup Instructions
 
-👉 (If you deploy on GitHub Pages, add your link here, e.g.,)
-https://harsh31tkd.github.io/Tic-tac-Toe-/
+1. Clone this repository:
+```
+git clone https://github.com/harsh31tkd/tic-tac-toe.git
+```
 
-🤝 Contributing
+2. Open index.html in your browser.
 
-Contributions are welcome!
-If you’d like to improve the game (e.g., add score tracking, AI opponent, or animations), feel free to fork and submit a pull request.
+# 🌐 Live Demo
 
-📜 License
+## 👉 
+```
+https://harsh31tkd.github.io/tic-tac-toe/
+```
+
+# 🤝 Contributing
+
+## Contributions are welcome!
+## If you’d like to improve the game (e.g., add score tracking, AI opponent, or animations), feel free to fork and submit a pull request.
+
+# 📜 License
 
 This project is licensed under the MIT License – free to use, share, and modify.
+
+Made with ❤️ by [Harsh](https://github.com/harsh31tkd)
